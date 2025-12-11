@@ -1,4 +1,4 @@
-# <h1 align="center"><strong>👋 Hi, I'm <span style="font-size:40px;">Aparna Gautam</span>!</strong></h1>
+# <h1 ><strong>👋 Hi, I'm <span style="font-size:40px;">Aparna Gautam</span>!</strong></h1>
 
 💻 **Web Developer | MERN Stack | DSA (Java)**  
 🎯 Passionate about **System Design** and building **scalable full-stack applications**  
